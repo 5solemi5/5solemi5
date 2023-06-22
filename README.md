@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-5solemi5&color=ff69b4) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/5solemi5&count_bg=%2329BEE4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+![](https://komarev.com/ghpvc/?username=your-github-5solemi5&color=ff69b4)  
 
 </div>
 
