@@ -1,9 +1,12 @@
+![pro](https://github.com/5solemi5/5solemi5/assets/104000117/cf1489e2-a722-4904-a8b8-19ec0c782022)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5solemi5&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5solemi5&layout=compact) 
+bg_color=00000111
 
 
 <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5solemi5&show_icons=true&bg_color=00001111)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5solemi5&layout=compact) 
 
 ![](https://komarev.com/ghpvc/?username=your-github-5solemi5&color=ff69b4)  
 
