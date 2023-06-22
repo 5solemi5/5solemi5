@@ -1,11 +1,10 @@
-
+![prof](https://github.com/5solemi5/5solemi5/assets/104000117/47aec60f-fce0-487e-8020-57997822d4c3)
 
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5solemi5&show_icons=true&bg_color=00001111)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5solemi5&layout=compact) 
 
-![](https://komarev.com/ghpvc/?username=your-github-5solemi5&color=ff69b4)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5solemi5&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/5solemi5&count_bg=%2329BEE4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
