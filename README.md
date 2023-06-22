@@ -10,9 +10,9 @@
  <img src="https://img.shields.io/badge/Python-7456AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-34396?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <br><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-<br>
+</br>
 
 <div align="center">
 
