@@ -4,7 +4,8 @@
 
 <h3>EJ04 &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Data &amp; AI</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%ED%95%B4+%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B9%8C%EC%A7%80+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;Spring+Boot+%C2%B7+React+%C2%B7+Vue+%C2%B7+Python;%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%84+%EB%81%9D%EA%B9%8C%EC%A7%80+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B1%B8+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
+<p><b>데이터에서 시작해 서비스까지 만듭니다</b></p>
+<p><sub>Spring Boot &nbsp;·&nbsp; React &nbsp;·&nbsp; Vue &nbsp;·&nbsp; Python</sub></p>
 
 <br/>
 
@@ -18,80 +19,93 @@
 
 <h2 align="center">About</h2>
 
-<!-- 작성 예정 -->
+<div align="center">
+
+데이터 분석과 딥러닝에서 출발해, 지금은 <b>백엔드와 풀스택</b>을 만듭니다.<br/>
+교재의 실습 구성을 그대로 따르기보다 <b>실무에서 쓰는 구성으로 다시 설계</b>하는 편입니다.<br/>
+재고 오버셀 · 포인트 정합성 · 데드락처럼 <b>눈에 보이지 않는 문제를 실측으로 검증</b>하는 작업에 관심이 많습니다.
+
+</div>
 
 <br/>
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center"><b>Language</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,py,ts,js" /></p>
 
 <p align="center"><b>Backend</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,postgres,mysql" /></p>
 
 <p align="center"><b>Frontend</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,html,css" /></p>
 
 <p align="center"><b>Data &amp; AI</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /></p>
+<p align="center"><sub>Keras · Apache Airflow · pandas · NumPy</sub></p>
 
 <p align="center"><b>Infra &amp; Tools</b></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,supabase,vercel,git,github" /></p>
+<p align="center"><sub>Testcontainers · JUnit 5</sub></p>
 
 <br/>
 
 <h2 align="center">Featured Projects</h2>
 
-<!-- 작성 예정 -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/5solemi5/skala-shop">SKALA SHOP</a></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,postgres,react,docker" height="32" /></p>
+
+포인트로 주문하는 온라인 쇼핑몰. 재고 오버셀 · 포인트 정합성 · 데드락을 <b>실측으로 검증한 동시성 제어</b>가 핵심입니다. Testcontainers 로 실제 PostgreSQL 을 띄워 45건을 검증했습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://skala-vue-v2.vercel.app">오늘의 채비</a></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=vue,vite,js,vercel" height="32" /></p>
+
+같은 예보를 <b>하는 일에 따라 다르게 읽어주는</b> 날씨 서비스. 정비 · 농사 · 현장작업 · 자전거 · 등산 · 야구 · 빨래 일곱 가지 기준으로 판정합니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://daily-todo-app-sable.vercel.app">오늘의 할 일</a></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,ts,supabase,vercel" height="32" /></p>
+
+미니멀 데일리 투두 앱. GitHub OAuth 로그인과 <b>Row Level Security</b> 로 "내 데이터만" 접근하도록 구성했습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/5solemi5/League-Of-Lengend_prediction">LoL 승패 예측</a></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" height="32" /></p>
+
+Riot Games API 로 수집한 <b>하루 20만 건</b> 경기 데이터를 전처리 · 피처 엔지니어링해 승패를 예측한 딥러닝 프로젝트입니다.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <h2 align="center">Journey</h2>
 
-<!-- 작성 예정 -->
+<table align="center">
+<tr><td align="center"><b>2023</b></td><td>AI소프트웨어 전공 — 이미지 처리, Spring 웹 개발, NLP · 텍스트 마이닝</td></tr>
+<tr><td align="center"><b>2024</b></td><td>KOELECTRA 기반 건강관리 앱 리뷰 감성분석 · Java 서버 프로그래밍</td></tr>
+<tr><td align="center"><b>2025</b></td><td>Apache Airflow 데이터 파이프라인 구축 · LoL 승패 예측 딥러닝</td></tr>
+<tr><td align="center"><b>2026</b></td><td>SK AX SKALA Full-Stack Engineering — Spring Boot · React · Vue</td></tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 **Thanks for stopping by.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:4F46E5&height=3&section=footer" width="100%" />
 
 </div>
